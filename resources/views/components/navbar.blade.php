@@ -39,21 +39,6 @@
             <small class="fw-bold text-center text-muted">IL MIO <br> VIAGGIO</small>
             <i class="fa-solid fa-train-subway fs-2 ms-3"></i>
         </div>
-        <div class="dropdown ms-3">
-            <button class="btn btn-danger dropdown-toggle text-uppercase" type="button" data-bs-toggle="dropdown"
-                aria-expanded="false">
-                admin
-            </button>
-            <ul class="dropdown-menu dropdown-menu-end dropdown-menu-dark">
-                <li><a class="dropdown-item" href="#">Header</a></li>
-                <li><a class="dropdown-item" href="#">Primo Piano</a></li>
-                <li><a class="dropdown-item" href="#">Offerte</a></li>
-                <li>
-                    <hr class="dropdown-divider">
-                </li>
-                <li><a class="dropdown-item text-warning" href="#">Logout</a></li>
-            </ul>
-        </div>
         <!-- Right elements -->
     </div>
     <!-- Container wrapper -->

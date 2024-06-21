@@ -9,6 +9,9 @@ Portal media site with more content and more sections
     - Swiper Carousel primo piano and offer completed
     - Primo piano - mcr to complete (migration ok - controller ok)
 
+- BackOffice
+    - Added /admin restrict area
+
 
 
 ## to do
@@ -16,3 +19,4 @@ Portal media site with more content and more sections
     - header backend to complete
     - offer backend to complete
     - Responsive
+    - Implement new widget and more in BackOffice
